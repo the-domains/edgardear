@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EdgarDear]]></title>
+        <description><![CDATA[EdgarDear]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 29 Jun 2016 22:28:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a.abcnews.go.com/images/US/ht_wasco_clown_1_kb_141014_4x3_992.jpg">]]></description>
+            <link>undefined941dc72b-c2c3-4b72-bcc4-900bed385ae5/index.html</link>
+            <guid isPermaLink="false">941dc72b-c2c3-4b72-bcc4-900bed385ae5</guid>
+            <pubDate>Wed, 29 Jun 2016 22:28:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
